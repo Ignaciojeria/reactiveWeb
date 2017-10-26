@@ -7,6 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import reactor.core.publisher.Flux;
 
+//Ejemplo extraido de : https://windoctor7.github.io/Programacion-Reactiva-Spring5.html
 @RestController
 public class ReactiveController {
 
